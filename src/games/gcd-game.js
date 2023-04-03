@@ -1,8 +1,6 @@
 import gameEngine from '../index.js';
 import getRandomInt from '../get-random-int.js';
 
-// gcd game defining
-
 const gameTask = 'Find the greatest common divisor of given numbers.';
 
 const gcd = (num1, num2) => Math.abs(!num2 ? num1 : gcd(num2, num1 % num2));
@@ -16,6 +14,4 @@ const gameCore = () => {
   return [question, validAnswer];
 };
 
-const gcdGame = () => gameEngine(gameTask, gameCore);
-
-export default gcdGame;
+export default () => gameEngine(gameTask, gameCore);

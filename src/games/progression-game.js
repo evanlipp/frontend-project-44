@@ -14,14 +14,12 @@ const createArr = () => {
 };
 
 const gameCore = () => {
-  const progression = createArr()
+  const progression = createArr();
   const missedNum = getRandomInt(9);
   const validAnswer = `${progression[missedNum]}`;
   progression[missedNum] = '..';
-  const question = `${progression}`;
+  const question = progression;
   return [question, validAnswer];
 };
 
-const progressionGame = () => gameEngine(gameTask, gameCore);
-
-export default progressionGame;
+export default () => gameEngine(gameTask, gameCore);

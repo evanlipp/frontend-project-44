@@ -18,10 +18,8 @@ const isPrime = (number) => {
 const gameCore = () => {
   const num = getRandomInt(100);
   const validAnswer = isPrime(num) ? 'yes' : 'no';
-  const question = `${num}`;
+  const question = num;
   return [question, validAnswer];
 };
 
-const primeGame = () => gameEngine(gameTask, gameCore);
-
-export default primeGame;
+export default () => gameEngine(gameTask, gameCore);
