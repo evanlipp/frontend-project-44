@@ -18,7 +18,7 @@ const gameCore = () => {
   const missedNum = getRandomInt(9);
   const validAnswer = `${progression[missedNum]}`;
   progression[missedNum] = '..';
-  const question = progression;
+  const question = progression.toString().replace(/,/g, ' ');
   return [question, validAnswer];
 };
 
