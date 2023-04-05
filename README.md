@@ -15,14 +15,17 @@
 * Arithmetic progression: Searching for the missed element in a sequence of numbers.
 * Prime number: determining a prime number.
 
-## Install:
+## System requirements:
+* Installed Node.js and npm package manager.
+
+## Installation and startup:
 1. Clone this repository:
 ```
 git@github.com:evanlipp/frontend-project-44.git
 ```
 2. Follow to the root directory of the project and run:
 ```
-make install
+npm ci
 ```
 3. Create a symlink in the global folder by runnig:
 ```
@@ -31,8 +34,26 @@ npm link
 4. Select a game and run it with a relevant command:
 ```
 brain-even
+```
+https://asciinema.org/a/Jr7KfDmt3vrwdipMHCENnlFfp
+```
 brain-calc
+```
+https://asciinema.org/a/rI4nexvSdFQVGDuMpQ56vB6Vw
+```
 brain-gcd
+```
+https://asciinema.org/a/fbSQOHDgw2bV2ayfB3gebet1R
+```
 brain-progression
+```
+https://asciinema.org/a/AZBVyp7dlT4CnjR4GlLKls7GV
+```
 brain-prime
 ```
+https://asciinema.org/a/859PiZAzI5OjCos8BjGFujLFt
+
+
+
+
+
