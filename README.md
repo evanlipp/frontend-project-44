@@ -15,9 +15,6 @@
 * Arithmetic progression: Searching for the missed element in a sequence of numbers.
 * Prime number: determining a prime number.
 
-## System requirements:
-* Installed Node.js and npm package manager.
-
 ## Installation and startup:
 1. Clone this repository:
 ```
