@@ -35,23 +35,23 @@ npm link
 ```
 brain-even
 ```
-[](https://asciinema.org/a/Jr7KfDmt3vrwdipMHCENnlFfp)
+[![ ](https://asciinema.org/a/Jr7KfDmt3vrwdipMHCENnlFfp)]
 ```
 brain-calc
 ```
-[](https://asciinema.org/a/rI4nexvSdFQVGDuMpQ56vB6Vw)
+[![ ](https://asciinema.org/a/rI4nexvSdFQVGDuMpQ56vB6Vw)]
 ```
 brain-gcd
 ```
-[](https://asciinema.org/a/fbSQOHDgw2bV2ayfB3gebet1R)
+[![ ](https://asciinema.org/a/fbSQOHDgw2bV2ayfB3gebet1R)]
 ```
 brain-progression
 ```
-[](https://asciinema.org/a/AZBVyp7dlT4CnjR4GlLKls7GV)
+[![ ](https://asciinema.org/a/AZBVyp7dlT4CnjR4GlLKls7GV)]
 ```
 brain-prime
 ```
-[](https://asciinema.org/a/859PiZAzI5OjCos8BjGFujLFt)
+[![ ](https://asciinema.org/a/859PiZAzI5OjCos8BjGFujLFt)]
 
 
 
