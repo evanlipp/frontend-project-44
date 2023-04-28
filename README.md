@@ -8,6 +8,15 @@
 ## Project decription:
 "Brain Games" is a set of five console games based on the popular mobile brain-pumping apps. Each game asks questions that need to be answered correctly. After three correct answers, the game is considered completed. Incorrect answers end the game and prompt you to play it again.
 
+### Used technologies and tools:
+* Javascript
+* NodeJS
+* npm
+* eslint
+* git
+* lodash
+* readlineSync
+
 ### List of games:
 * Parity check: determining an even number.
 * Calculator: calculation of Arithmetic expressions.
